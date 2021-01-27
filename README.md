@@ -8,4 +8,4 @@ TinDog -  https://harshy736.github.io/FrontEnd-Web-Projects/TinDog/index.html
 
 Dice Game - https://harshy736.github.io/FrontEnd-Web-Projects/DOM/Dicee%20Game/dice.html
 
-Drum Kit - https://harshy736.github.io/FrontEnd-Web-Projects/DOM/Drum%20kit/index.html
+Drum Kit - https://harshy736.github.io/FrontEnd-Web-Projects/DOM/Drum%20Kit/index.html
